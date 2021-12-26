@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**ariel996/ariel996** is a ✨ _Full Stack Developper_ ✨ where he works on so many projects which help him to have two years of experience.
+**ariel996/ariel996** is a ✨ _Web and Mobile Developper_ ✨ where he works on so many projects which help him to have four years of experience.
 
 Let me present myself:
 
