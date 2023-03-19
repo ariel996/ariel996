@@ -5,14 +5,14 @@
 
 Let me present myself:
 
-- 🔭 I’m currently working on a greate application
-- 🌱 I’m currently learning devops engineer
+- 🔭 I have many projects available online
+- 🌱 I’m currently Junior Devops Engineer for a US Company
 - 👯 I’m looking to collaborate on big project
-- 🤔 I’m looking for help with 
 - 💬 Ask me about ✨_WebDevelopment_✨ ✨_ArtificialIntelligence_✨ and many more topics...
 - 📫 How to reach me: arielnana@easycloudtalent.com
 - :computer: I have a passion in new technologies like: Artificial intelligence which include Federated learning, Machine learning; also, i'm interested in web and mobile development with my preferable frameworks like Flutter, Laravel, Django, Flask, Sping Boot, etc...
 - :telephone_receiver: If you have an interesting project, contact me at: (+237)699-501-442 or (+237) 676-124-735
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=ariel996)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ariel996&show_icons=true"/>
