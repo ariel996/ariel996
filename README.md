@@ -15,3 +15,8 @@ Let me present myself:
 - :telephone_receiver: If you have an interesting project, contact me at: (+237)699-501-442 or (+237) 676-124-735
 
 <img src="https://images.unsplash.com/photo-1511914265872-c40672604a80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ariel996&show_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ariel996&layout=compact"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ariel996"/>
