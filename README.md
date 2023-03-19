@@ -13,8 +13,7 @@ Let me present myself:
 - 📫 How to reach me: arielnana@easycloudtalent.com
 - :computer: I have a passion in new technologies like: Artificial intelligence which include Federated learning, Machine learning; also, i'm interested in web and mobile development with my preferable frameworks like Flutter, Laravel, Django, Flask, Sping Boot, etc...
 - :telephone_receiver: If you have an interesting project, contact me at: (+237)699-501-442 or (+237) 676-124-735
-
-<img src="https://images.unsplash.com/photo-1511914265872-c40672604a80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"/>
+![trophy](https://github-profile-trophy.vercel.app/?username=ariel996)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ariel996&show_icons=true"/>
 
