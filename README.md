@@ -5,7 +5,7 @@ src="https://img.shields.io/github/followers/ariel996?logo=github&style=for-the-
 
 # Ariel Nana 😃
 
-Independent Sr. Software Consultant | Co-founder @ [Easy Cloud Talent](https://easycloudtalent.com) | Embracing Technology | Entrepreneer
+Independent Software Engineer | Devops Engineer | Data Engineer | Co-founder @ [Easy Cloud Talent](https://easycloudtalent.com) | Embracing Technology | Machine Learning apprentice
 
 ## 🧐 About 
 
@@ -19,6 +19,7 @@ I love technology and best practices. Github is my favourite place, it keeps me 
 ## 👯 Communities
 - Member of [Laravel CM](https://laravel.cm) (a PHP & Laravel Community)
 - Lecturer at [MATAMFEN HIGHER INSTITUTE](https://matamfensup.com) (a higher institution in Yaounde, Cameroon)
+- My portfolio [Ariel NAna](https://arielnana.me)
 
 ## ⚡ Technologies
 
@@ -27,7 +28,7 @@ Talk to me about
 - Front-end development using **VueJS, React**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
 - Robust full-stack system design implementation
-- Creating scalable cloud  architecture using **AWS, Docker, Kubernetes**
+- Creating scalable cloud  architecture using **AWS, Docker, Kubernetes, Terraform**
 - Project Management & CI/CD using **Github Actions, AWS Code Build, Jenkins**
 
 **Languages and tools**
@@ -51,3 +52,4 @@ Talk to me about
 
 - Twitter - [@GainyoC](https://twitter.com/GainyoC)
 - LinkedIn - [Ariel NANA](https://www.linkedin.com/in/ariel-nana/)
+- E-mail: [GMAIL](arielnana913@gmail.com), From portfolio [Ariel Nana](ariel@arielnana.me)
