@@ -1,25 +1,7 @@
 <p>
   <a href="https://www.github.com/ariel996" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ariel996?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-</p>
-
-# Ariel Nana 😃
-
-Independent Software Engineer | Devops Engineer | Data Engineer | Co-founder @ [Easy Cloud Talent](https://easycloudtalent.com) | Embracing Technology | Machine Learning apprentice
-
-## 🧐 About 
-
-I love technology and best practices. Github is my favourite place, it keeps me up to date with what's going on in the world.
-
-## Companies
-
-- Co-Founder at [EASY CLOUD TALENT](https://easycloudtalent.com) (a web agency dealing with data analysis and software development)
-- Co-Founder at [GAINYO](https://gainyo.com) (a web platform to learn african languages)
-
-## 👯 Communities
-- Member of [Laravel CM](https://laravel.cm) (a PHP & Laravel Community)
-- Lecturer at [MATAMFEN HIGHER INSTITUTE](https://matamfensup.com) (a higher institution in Yaounde, Cameroon)
-- My portfolio [Ariel NAna](https://arielnana.me)
+</p
 
 ## ⚡ Technologies
 
