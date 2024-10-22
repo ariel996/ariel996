@@ -1,4 +1,4 @@
-### Hi, I'm Ines <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
+### Hi, I'm Ariel <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
 
 I'm a computer scientist and developer who is passionate about multiculturalism, running, and playing the music.
 
